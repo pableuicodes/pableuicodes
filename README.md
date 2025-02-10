@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pableuicodes
 - 👀 I’m interested in ... TRADING AND DOING PROJECTS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... PHP(Server-side) Back End Programming
+- 💞️ I’m looking to collaborate on ... SENIOR DEVS OUT THERE
 - 📫 How to reach me ...
 - 😄 Pronouns: ... HE/HIM
 - ⚡ Fun fact: ... loves to unwind and go on trips
