@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paul Justine A. Posas
 
-## 💻 Web Developer
+## 💻 Web Developer | Graphic Designer | Trader
 
 An aspiring **Web Developer** who hopes to engage in the field of I.T. industry.  
 I possess strong dedication to work, adaptable to all challenging situations, and flexible to adjust in an environment where I can cross-collaborate with teams to deliver quality services to clients and colleagues.
