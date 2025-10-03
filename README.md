@@ -1,3 +1,5 @@
+
+
 # 👋 Hi, I'm Paul Justine A. Posas
 
 ## 💻 Web Developer | Graphic Designer | Trader
@@ -36,8 +38,42 @@ _Tarp Mo Print Ko Atbp | 2014 - 2017_
 ---
 
 ## ⚡ Skills
-
-## [![](https://skillicons.dev/icons?i=html,css,js,bootstrap,github,mysql,ai,ps,vscode)](https://skillicons.dev)
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+With Experience
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+Still Engaging With
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+    <p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,mysql,ai,ps,vscode" />
+  </a>
+    </p>
+</td>
+<td>
+  <p align="center">
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,nodejs,express,git,mongodb,webpack,tailwind,nextjs,npm,postgres,postman,py&perline=5" />
+  </a>
+  </p>
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats:
@@ -57,3 +93,4 @@ _Tarp Mo Print Ko Atbp | 2014 - 2017_
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ✨ *“Code, design, and create with passion.”*  
+
