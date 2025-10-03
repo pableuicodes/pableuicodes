@@ -61,7 +61,7 @@ Still Engaging With
 <td>
     <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,mysql,ai,ps,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,mysql,ai,ps,vscode&perline=5" />
   </a>
     </p>
 </td>
