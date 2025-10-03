@@ -17,13 +17,13 @@ I possess strong dedication to work, adaptable to all challenging situations, an
 ## 💼 Work Experience
 
 **Administrative Assistant II**  
-_DepEd La Union SDO | Feb 2017 - Present_  
+_Department of Education - La Union Schools Division | February 2017 - Present_  
 - 📑 Prepared paperwork and processed employee benefits, payroll, and leave monitoring.  
 - 📦 Monitored inventory and automated repetitive tasks.  
 - 🗣️ Practiced effective communication and task prioritization.  
 
 **Graphic Designer**  
-_Tarp Mo Print Ko Atbp | 2014 - 2017_  
+_Tarp Mo Print Ko Atbp Printing Shop | 2014 - 2017_  
 - 🎨 Created visually appealing graphic designs.  
 - 🖌️ Specialized in concept layout, branding, identity, product illustrations, and packaging design.  
 
