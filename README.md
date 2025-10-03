@@ -8,9 +8,7 @@ I possess strong dedication to work, adaptable to all challenging situations, an
 ---
 
 ## 📞 Contact
-[![Phone](https://img.shields.io/badge/Phone-%2B63%20976%20041%206473-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+639760416473)  
-[![Email](https://img.shields.io/badge/Email-pableuiposas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pableuiposas@gmail.com)  
-[![Linktree](https://img.shields.io/badge/Linktree-Profile-green?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devxpaul)  
+[![Phone](https://img.shields.io/badge/Phone-%2B63%20976%20041%206473-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+639760416473)  [![Email](https://img.shields.io/badge/Email-pableuiposas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pableuiposas@gmail.com)  [![Linktree](https://img.shields.io/badge/Linktree-Profile-green?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devxpaul)  
 
 ---
 
@@ -43,18 +41,20 @@ _Tarp Mo Print Ko Atbp | 2014 - 2017_
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pableuicodes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pableuicodes&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pableuicodes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxpaul&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devxpaul&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=devxpaul&theme=tokyonight)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pableuicodes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pableuicodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pableuicodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=devxpaul&color=blue&style=for-the-badge)  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ✨ *“Code, design, and create with passion.”*  
